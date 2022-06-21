@@ -1,5 +1,7 @@
 package ticTacToe;
 
+// Diese Datei liegt im Git-Ordner
+
 public class Game {
     private GameBoard board; // Hierdurch "kennt" Game Gameboard
     private GameLogic logic;
